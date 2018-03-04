@@ -1,18 +1,15 @@
 {
-	"name": "enyo/dropzone",
-	"description": "Handles drag and drop of files for you.",
-	"homepage": "http://www.dropzonejs.com",
-	"keywords": [
-		"dragndrop",
-		"drag and drop",
-		"file upload",
-		"upload"
-	],
+  "name": "iainhouston/dropzone",
+  "description": "Cascading grid layout library",
+  "type": "drupal-library",
+  "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
+  "homepage": "https://masonry.desandro.com",
+  "license": "MIT",
 	"authors": [{
 		"name": "Matias Meno",
 		"email": "m@tias.me",
 		"homepage": "http://www.matiasmeno.com"
 	}],
-	"license": "MIT",
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+  "require": {}
 }
