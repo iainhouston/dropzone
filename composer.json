@@ -1,18 +1,17 @@
 {
   "name": "iainhouston/dropzone",
-  "description": "Cascading grid layout library",
-  "type": "drupal-library",
   "extra": {
     "installer-name": "dropzone"
   },
-  "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
-  "homepage": "https://masonry.desandro.com",
-  "license": "MIT",
-	"authors": [{
-		"name": "Matias Meno",
-		"email": "m@tias.me",
-		"homepage": "http://www.matiasmeno.com"
-	}],
-	"minimum-stability": "dev",
+  "description": "Misfits dropzone  javascript as a Drupal library.",
+  "type": "drupal-library",
+  "license": "GPL-2.0+",
+  "keywords": ["misfits"],
+  "homepage": "https://iainhouston.com",
+  "minimum-stability": "dev",
+  "authors": [{
+    "name": "Iain Houston",
+    "email": "iainhouston@mac.com"
+  }],
   "require": {}
 }
