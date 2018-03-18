@@ -2,6 +2,9 @@
   "name": "iainhouston/dropzone",
   "description": "Cascading grid layout library",
   "type": "drupal-library",
+  "extra": {
+    "installer-name": "dropzone"
+  },
   "keywords": ["javascript", "library", "grid", "browser", "dom", "layout", "outlayer"],
   "homepage": "https://masonry.desandro.com",
   "license": "MIT",
